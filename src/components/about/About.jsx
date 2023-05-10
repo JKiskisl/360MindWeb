@@ -39,7 +39,21 @@ const About = () => {
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat
             omnis incidunt molestiae corrupti tempore a enim odit! Quasi dolorum
             nobis repudiandae enim expedita, fugiat blanditiis magnam placeat
-            dicta corrupti facere?
+            dicta corrupti facere? Lorem ipsum, dolor sit amet consectetur
+            adipisicing elit. Quas ut odit praesentium cum dolor libero sed,
+            quaerat error voluptatum atque aliquam architecto iste. Incidunt,
+            numquam minus. Pariatur possimus corrupti a. Lorem, ipsum dolor sit
+            amet consectetur adipisicing elit. Quasi dolor nam necessitatibus,
+            sunt magnam exercitationem ea sint, voluptas atque laborum natus,
+            amet quod quae ipsa tempore. Praesentium eius mollitia amet?Lorem
+            ipsum dolor sit amet consectetur adipisicing elit. Tempora illum
+            mollitia perspiciatis, consequuntur veniam maiores nulla sed eaque
+            laudantium commodi veritatis beatae tenetur, tempore deserunt
+            adipisci laboriosam quos, nam officia!Lorem Lorem ipsum dolor sit
+            amet consectetur adipisicing elit. Consequuntur doloribus
+            temporibus, corporis cumque atque in quam hic ad eos suscipit
+            molestias quae velit tempora, voluptatem reprehenderit possimus
+            similique nulla odit?
           </p>
 
           <a href="#contact" className="btn btn-primary">

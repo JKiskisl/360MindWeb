@@ -36,13 +36,13 @@ const Nav = () => {
           <a href="#about">About us</a>
         </li>
         <li className={activeButton === "product" ? "active" : ""}>
-          <a href="#experience">Product</a>
+          <a href="#product">Product</a>
         </li>
         <li className={activeButton === "whyus" ? "active" : ""}>
-          <a href="#portfolio">Why us</a>
+          <a href="#whyus">Why us</a>
         </li>
         <li className={activeButton === "pricing" ? "active" : ""}>
-          <a href="#contact">Pricing</a>
+          <a href="#pricing">Pricing</a>
         </li>
         <li className={activeButton === "team" ? "active" : ""}>
           <a href="#team">Team</a>
