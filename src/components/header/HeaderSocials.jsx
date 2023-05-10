@@ -1,5 +1,5 @@
 import React from "react";
-import { BsLinkedin } from "react-icons/bs";
+import { BsFacebook, BsLinkedin } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
 import { BsInstagram } from "react-icons/bs";
 
@@ -14,6 +14,9 @@ const HeaderSocials = () => {
       </a>
       <a href="https://instagram.com" target="_blank" rel="noreferrer">
         <BsInstagram />
+      </a>
+      <a href="https://facebook.com" target="_blank" rel="noreferrer">
+        <BsFacebook />
       </a>
     </div>
   );
