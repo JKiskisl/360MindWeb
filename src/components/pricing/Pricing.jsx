@@ -5,7 +5,8 @@ import "./pricing.css";
 const Pricing = () => {
   return (
     <section id="pricing">
-      <h5>pricing</h5>
+      <h5>Our</h5>
+      <h2>Pricing</h2>
     </section>
   );
 };

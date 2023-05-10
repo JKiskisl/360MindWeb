@@ -1,0 +1,26 @@
+.product-content {
+  max-width: 800px;
+  margin-left: 20%;
+}
+
+.product-title {
+  font-size: 4em;
+  text-align: left;
+}
+
+.product-image {
+  flex-basis: 50%;
+  text-align: right;
+}
+
+.product-image img {
+  max-width: 100%;
+}
+.product-description {
+  font-size: 1.2em;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: justify;
+  position: relative;
+  top: 450px;
+}
