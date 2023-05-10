@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./contact.css";
+import "./team.css";
 
 const Team = () => {
   return (

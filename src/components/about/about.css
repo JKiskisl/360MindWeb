@@ -38,6 +38,12 @@
   transition: var(--transition);
 }
 
+.about__card:hover {
+  background: transparent;
+  border-color: var(--color-primary-variant);
+  cursor: default;
+}
+
 .about__icon {
   color: var(--color-primary);
   font-size: 1.4rem;
