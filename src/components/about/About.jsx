@@ -31,7 +31,7 @@ const About = () => {
             <article className="about__card">
               <FaUsers className="about__icon" />
               <h5>Users</h5>
-              <small>worldwide</small>
+              <small>1000+ worldwide</small>
             </article>
           </div>
 
