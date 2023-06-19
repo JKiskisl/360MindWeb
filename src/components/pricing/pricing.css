@@ -58,3 +58,38 @@
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+@media screen and (max-width: 600px) {
+  .pricing__container {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .pricing {
+    border-radius: 2rem;
+  }
+
+  .pricing__head {
+    border-radius: 2rem 2rem 0 0;
+  }
+
+  .pricing__head h3 {
+    font-size: 0.9rem;
+  }
+
+  .pricing__list {
+    padding: 1.5rem;
+  }
+
+  .pricing__list li {
+    margin-bottom: 0.5rem;
+  }
+
+  .pricing__list-icon {
+    margin-top: 1px;
+  }
+
+  .pricing__list p {
+    font-size: 0.8rem;
+  }
+}
