@@ -30,6 +30,14 @@ a {
   color: black;
 }
 
+ul.ul-right {
+  margin-left: 100rem;
+  display: flex;
+  align-items: center;
+  max-width: calc(100% - 200px);
+  overflow-x: auto;
+}
+
 .active a {
   color: white;
   background-color: var(--color-primary);
